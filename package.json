@@ -1,0 +1,12 @@
+{
+  "id": "gitlab",
+  "name": "Gitlab",
+  "version": "1.0.1",
+  "description": "Gitlab",
+  "main": "index.js",
+  "author": "Tan Zi Gang",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gitlab.com/"
+  }
+}
