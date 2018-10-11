@@ -13,7 +13,7 @@ You can install it manually by following the instructions below.
   * Windows: `%appdata%/Franz/recipes/dev/`
 Create the `dev` folder if you don't have it yet.
 3. Unzip the zip file you have downloaded
-4. Copy the `franz-gitlab` folder into the plugins dev directory
+4. Copy the `franz-gitlab-master` folder into the plugins dev directory
 4. Reload Franz
 5. Open Franz settings. Under 'available services' you will find a 'Development' section. Click on 'Website' and start configuring
 
